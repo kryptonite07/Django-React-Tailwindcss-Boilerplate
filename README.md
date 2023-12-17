@@ -6,7 +6,7 @@ Live Demo: [https://nepdr.pythonanywhere.com/](https://nepdr.pythonanywhere.com/
 
 ## Install Python Packages Required For Project
 
-`pip3 install -r requirements.txt`
+`pip3 install -r requirements.txt`.
 
 ## Install Node Modules
 
