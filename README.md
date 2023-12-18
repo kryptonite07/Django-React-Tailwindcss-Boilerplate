@@ -21,5 +21,5 @@ If you want to see live changes while building the project run `npm run dev` whi
 ## Run Django Server
 
 `python manage.py runserver`
-
+.
 
